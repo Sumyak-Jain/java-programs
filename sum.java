@@ -1,4 +1,4 @@
-//java code for finding the largest of three
+//java code for finding sum of two integer
 public class sum{
 public static void main(String args[]){
 	int a,b,c;
