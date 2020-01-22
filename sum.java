@@ -1,7 +1,7 @@
 //java code for finding sum of two integer
 public class sum{
 public static void main(String args[]){
-	int a,b,c;
+	int a,b;
   a=Integer.parseInt(args[0]);
   b=Integer.parseInt(args[1]);
  
