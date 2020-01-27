@@ -1,4 +1,5 @@
 //program to find the sum of all integers greater than 40 and less than 250 that are divisible by 5.
+
 class divisible{
 public static void main(String args[]){
 int sum=0;
