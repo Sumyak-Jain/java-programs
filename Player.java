@@ -1,7 +1,5 @@
 //Write a program in Java to create a Player class. Inherit the classes  Cricket _Player, Football _Player
-and Hockey_ Player from Player class. 
-
-
+//and Hockey_ Player from Player class. 
 public class Player
 {
 String name="Sumyak jain";
