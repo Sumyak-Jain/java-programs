@@ -1,8 +1,11 @@
 # JAVA LAB PROGRAMS
-#### lab experiments
 
-**UPES LAB FILE**
-![](https://www.targetadmission.com/img/logos/14397247270.png)
+![](https://www.linuxfoundation.org/wp-content/uploads/2018/12/Logo-upes.png)
+
+## UPES JAVA LAB MANUAL
+### lab experiments
+
+
 ### EXPERIMENT – 2,3
 ## TITLE: *Basic Java Programming*
 
