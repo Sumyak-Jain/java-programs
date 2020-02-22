@@ -1,6 +1,6 @@
-//program to accept 10 student’s marks in an array, arrange it into ascending order, 
+/**program to accept 10 student’s marks in an array, arrange it into ascending order, 
 convert into the following grades and print marks and grades.
-//using class and object
+using class and object**/
 
 import java.util.Scanner;
 class marks{
