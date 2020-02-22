@@ -138,8 +138,8 @@
 
 Project Specification: (Write the following classes in same project named as Proj_Lab9)
 Objective: After these lab exercises students will be in position to clear the concept of JSP and how to write the server side scripting language.
- 1.         Write a JSP page to access the data of a student from the student table.
- 2.         Write a JSP Login page to enter the username and password entered by
-user and display the welcome page on successful login otherwise display
-wrong authentication page.
+ 1.  Write a JSP page to access the data of a student from the student table.
+ 2.  Write a JSP Login page to enter the username and password entered by
+     user and display the welcome page on successful login otherwise display
+     wrong authentication page.
 
