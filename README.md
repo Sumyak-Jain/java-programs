@@ -2,7 +2,7 @@
 #### lab experiments
 
 ### EXPERIMENT – 2,3
-## TITLE: Basic Java Programming
+## TITLE: *Basic Java Programming*
 
 1.	Write a program to find the largest of 3 numbers.
 2.	Write a program to add two number using command line arguments.
@@ -25,7 +25,7 @@
 10.	Write a program to find the sum of all integers greater than 40 and less than 250 that are divisible by 5.
 
 ### EXPERIMENT – 4
-## TITLE: Inheritance
+## TITLE: *Inheritance*
 
 1.	Write a Java program to show that private member of a super class cannot be accessed from derived classes. 
 
@@ -39,7 +39,7 @@
 
 
 ### EXPERIMENT – 5
-## TITLE: Interface
+## TITLE: *Interface*
 
 1.	Write a program to create interface named test. In this interface the member function is square. Implement this interface in arithmetic class. Create one new class called ToTestInt. In this class use the object of arithmetic class.
 
@@ -51,14 +51,14 @@
 4.	Write a program to create an Interface having two methods division and modules. Create a class, which overrides these methods.
 
 ### EXPERIMENT – 6
-## TITLE: Package
+## TITLE: *Package*
 
 1.	Write a Java program to implement the concept of importing classes from user defined package and created packages.
 
 2.	Write a program to make a package Balance. This has an Account class with Display_Balance method. Import Balance package in another program to access Display_Balance method of Account class. 
 
 ### EXPERIMENT – 7
-## TITLE: Exceptions
+## TITLE: *Exceptions*
 
 1.	Write a program in Java to display the names and roll numbers of students. Initialize respective array variables for 10 students. Handle ArrayIndexOutOfBoundsExeption, so that any such problem doesn’t cause illegal termination of program. 
 
@@ -74,7 +74,7 @@
 * Or else an object must be created for the entered employee details
 
 ### EXPERIMENT – 8
-## TITLE: Strings Handling and Wrapper Class
+## TITLE: *Strings Handling and Wrapper Class*
 
 1.	Write a program for searching strings for the first occurrence of a character or substring and for the last occurrence of a character or substring. 
 
@@ -84,21 +84,21 @@
 
 4.	Write a program in Java to create a String object. Initialize this object with your name. Find the length of your name using the appropriate String method. Find whether the character ‘a’ is in your name or not; if yes find the number of times ‘a’ appears in your name. Print locations of occurrences of ‘a’ .Try the same for different String objects
 
-## TITLE: Wrapper Classes
+## TITLE: *Wrapper Classes*
 
 1.	Write a Java code that converts int to Integer, converts Integer to String, converts String to int, converts int to String, converts String to Integer converts Integer to int.
 
 2.	Write a Java code that converts float to Float converts Float to String converts String to float converts float to String converts String to Float converts Float to float.
 
 ### EXPERIMENT – 9
-## TITLE: Threads and Collections
+## TITLE: *Threads and Collections*
 
 1. Write a program to implement the concept of threading by extending Thread Class and Runnable interface.
 2. Write a program for generating 2 threads, one for printing even numbers and the other for printing odd numbers.
 3. Write a program to launch 10 threads. Each thread increments a counter variable. Run the program with synchronization. 
 4. Write a Java program to create five threads with different priorities. Send two threads of the highest priority to sleep state. Check the aliveness of the threads and mark which thread is long lasting
 
-## TITLE: Collections
+## TITLE: *Collections*
 
 1.	Write a program for the following:
 
@@ -120,21 +120,21 @@
 * search user defined objects from HashSet
 
 ### EXPERIMENT – 10
-## TITLE: JDBC
+## TITLE: *JDBC*
 
 1.	Create a database table to store the records of employee in a company. Use getConnection function to connect the database. The statement object uses executeUpdate function to create a table.
 
 2.	Create a database of employee of company in mysql and then use java program to access the database for inserting information of employees in database. The SQL statement can be used to view the details of the data of employees in the database.
 
 ### EXPERIMENT – 11
-## TITLE:  Servlet
+## TITLE:  *Servlet*
 1.	Servlet:  a) ServletContext interface  b)getParameterValues( ) of Servlet Request
 2.	Write a Servlet page to display current date of the server.
 3.	Write a Servlet page to which include the two other Servlet page through of include directives feature provided in Servlet.
 4.	Write a Servlet page to create a simple calculator.
 
 ### EXPERIMENT – 12
-## TITLE: JSP
+## TITLE: *JSP*
 
 Project Specification: (Write the following classes in same project named as Proj_Lab9)
 Objective: After these lab exercises students will be in position to clear the concept of JSP and how to write the server side scripting language.
