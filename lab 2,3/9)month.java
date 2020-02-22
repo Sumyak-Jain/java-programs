@@ -1,5 +1,5 @@
-//program to input a number of a month (1 - 12) and print its equivalent name of 
-the month.( e.g 1 to Jan, 2 to Feb. 12 to Dec.)
+/**program to input a number of a month (1 - 12) and print its equivalent name of 
+the month.( e.g 1 to Jan, 2 to Feb. 12 to Dec.)**/
 
 import java.util.Scanner;
 class month{
