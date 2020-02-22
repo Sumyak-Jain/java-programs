@@ -1,5 +1,5 @@
 //Java Program to accept 10 numbers in an array and compute the square of each number. 
-Print the sum of these numbers.
+//Print the sum of these numbers.
 import java.util.Scanner;
 class numbers{
 public static void main(String args[]){
