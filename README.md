@@ -1,4 +1,4 @@
-# java-programs
+# JAVA LAB PROGRAMS
 #### lab experiments
 
 ### EXPERIMENT – 2,3
