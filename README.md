@@ -2,7 +2,7 @@
 #### lab experiments
 
 **UPES LAB FILE**
-![alt text](https://images.app.goo.gl/B9rBkeiRvcYpRwNc9)
+![](https://www.targetadmission.com/img/logos/14397247270.png)
 ### EXPERIMENT – 2,3
 ## TITLE: *Basic Java Programming*
 
