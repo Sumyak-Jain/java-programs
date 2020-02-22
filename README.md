@@ -132,7 +132,7 @@ search user defined objects from HashSet
 4.	Write a Servlet page to create a simple calculator.
 
 ### EXPERIMENT – 12
-## Title: JSP
+## TITLE: JSP
 
 Project Specification: (Write the following classes in same project named as Proj_Lab9)
 Objective: After these lab exercises students will be in position to clear the concept of JSP and how to write the server side scripting language.
