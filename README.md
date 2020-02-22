@@ -13,7 +13,7 @@
 
                Between 40 and 50 : PASS 
                Between 51 and 75 : MERIT 
- 	              and above : DISTINCTION
+ 	             and above : DISTINCTION
                
 7.	Write a program to accept three digits (i.e. 0 - 9) and print all its possible combinations.  
             (For example if the three digits are 1, 2, 3 than all possible combinations are : 123, 132, 
