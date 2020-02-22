@@ -93,30 +93,31 @@
 ### EXPERIMENT – 9
 ## TITLE: Threads and Collections
 
-1.	Write a program to implement the concept of threading by extending Thread Class and Runnable interface.
-2.	Write a program for generating 2 threads, one for printing even numbers and the other for printing odd numbers.
-3.Write a program to launch 10 threads. Each thread increments a counter variable. Run the program with synchronization. 
-4.	Write a Java program to create five threads with different priorities. Send two threads of the highest priority to sleep state. Check the aliveness of the threads and mark which thread is long lasting
+1. Write a program to implement the concept of threading by extending Thread Class and Runnable interface.
+2. Write a program for generating 2 threads, one for printing even numbers and the other for printing odd numbers.
+3. Write a program to launch 10 threads. Each thread increments a counter variable. Run the program with synchronization. 
+4. Write a Java program to create five threads with different priorities. Send two threads of the highest priority to sleep state. Check the aliveness of the threads and mark which thread is long lasting
 
 ## TITLE: Collections
 
 1.	Write a program for the following:
 
-Read all elements from ArrayList by using Iterator.
-Create duplicate object of an ArrayList instance.
-Reverse ArrayList content.
+* Read all elements from ArrayList by using Iterator.
+* Create duplicate object of an ArrayList instance.
+* Reverse ArrayList content.
+
 2.	Write a program for the following HashMap
 
-find whether specified key exists or not.
-find whether specified value exists or not
-get all keys from the given HashMap
- get all key-value pair as Entry objects
+* find whether specified key exists or not.
+* find whether specified value exists or not
+* get all keys from the given HashMap
+* get all key-value pair as Entry objects
 
 3.	Write a program for the following HashSet
 
-copy another collection object to HashSet object.
-delete all entries at one call from HashSet
-search user defined objects from HashSet
+* copy another collection object to HashSet object.
+* delete all entries at one call from HashSet
+* search user defined objects from HashSet
 
 ### EXPERIMENT – 10
 ## TITLE: JDBC
