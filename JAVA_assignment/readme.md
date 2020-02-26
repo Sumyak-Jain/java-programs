@@ -1,4 +1,4 @@
-##JAVA ASSIGNMNENT
+## JAVA ASSIGNMNENT
 
 **Q1.** Create the abstract class Animal and a set of two or three animal sub-classes 
 such asTiger   and Lion. 
@@ -62,9 +62,9 @@ number (Should generate automatically if new customer added) and type of account
 From this derive the classes cur_acct and sav_acct to make them more specific to their requirements.
 
 Include necessary member functions in order to achieve the following tasks: 
-a. Accept deposit from a customer and update the balance 
-b. Display the balance.
-c. Compute and deposit interest. 
-d. Permit withdrawal and update the balance. 
-e. Check for minimum balance, impose penalty, necessary and update the balance.  
+*  *Accept deposit from a customer and update the balance* 
+*  *Display the balance.*
+*  *Compute and deposit interest.* 
+*  *Permit withdrawal and update the balance.*
+*  *Check for minimum balance, impose penalty, necessary and update the balance.*  
  
