@@ -6,8 +6,8 @@ import java.util.Scanner;
    int rate=4;//declare intrest rate for compound intrest
    
     public static void main(String[] args) {
-        sav_acct obj=new sav_acct();
-        cur_acct obj1=new cur_acct();
+        sav_acct obj=new sav_acct();// make object of saving account
+        cur_acct obj1=new cur_acct();//make object of current account
         
      Scanner sc=new Scanner(System.in);
         System.out.println("enter your name");
@@ -17,7 +17,7 @@ import java.util.Scanner;
         System.out.println("enter type of account");
         System.out.println("types S for saving account and C for current account");
         char type=sc.next().charAt(0);
-        boolean q=true;
+        boolean q=true;//condition to return back to the menu
         while(q){
         if(type=='S'){
             
@@ -53,9 +53,9 @@ import java.util.Scanner;
             else{
                 System.exit(0);
             }
-          } } }}
+          } } } }
    
-    class cur_acct extends account{
+    class cur_acct extends account{ //current account class
         public void  display(){
             if(balance<500){
                 System.out.println("not enough money deposit the minimum balance");
@@ -66,7 +66,7 @@ import java.util.Scanner;
             
         }
     }
-    class sav_acct extends account{
+    class sav_acct extends account{// saving acount class 
          Scanner sc1=new Scanner(System.in);
         public void deposit(){
             
