@@ -1,7 +1,9 @@
+//question 1
+
 import java.util.Scanner;
- public class account {
-   int balance =500;
-   int rate=4;
+ public class account { //make a super class account
+   int balance =500;//declare min balance
+   int rate=4;//declare intrest rate for compound intrest
    
     public static void main(String[] args) {
         sav_acct obj=new sav_acct();
