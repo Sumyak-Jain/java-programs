@@ -1,4 +1,5 @@
-/** importing self created package and built in package
+/** importing self created package and built in package**/
+
 package pack;
 import mypack.*;
 import java.util.Arrays;
