@@ -2,7 +2,7 @@ package practice_java;
 import java.util.*;
 import java.lang.*;
 
-class OutOfRange extends Exception
+class OutOfRange extends Exception//creating exception
 {
 	Double a;
 	OutOfRange(Double b) {
