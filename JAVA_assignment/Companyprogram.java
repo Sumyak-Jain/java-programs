@@ -1,6 +1,6 @@
 package practice_java;
 import java.util.*;
-interface sales{
+interface sales{//making the interface
     int get_sales(int amount);
     void display_sales();
     
