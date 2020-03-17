@@ -31,12 +31,13 @@ void display()
 {System.out.println("no of pages added are "+c );
 }
 
-   	public int  get_sales(int amount)
+   	public int  get_sales(int amount)//interface method
 	{ a=amount;
         return a;
         }
         
-	public void display_sales()
+	public void display_sales()//dispaly sales method
+	
 	{
 		System.out.println("the sales amount  is Rs."+a);
 	}
