@@ -13,7 +13,7 @@ Publication(String tittle,float price)//storing tittle and price
 t=tittle;  
 p=price;
 }
-void display()
+void display()//display method for tiitle and price
 {
 System.out.println("tittle is "+t);
 System.out.println("price is Rs."+p);
