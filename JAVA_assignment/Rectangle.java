@@ -28,7 +28,7 @@ public class Rectangle
 	public Double setLength(Double length)
 	{
 		try {
-			if(length < 0.0 || length > 20.0)
+			if(length < 0.0 || length > 20.0)//checking exception
 			{
 				throw new OutOfRange(length);
 			}
