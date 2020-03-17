@@ -69,7 +69,7 @@ public class Rectangle
 	 }
 	 
 	
-	 public Rectangle(double x1, double x2, double x3, double x4, double y1, double y2, double y3, double y4)
+	 public Rectangle(double x1, double x2, double x3, double x4, double y1, double y2, double y3, double y4)//taking cordinates
 	
 	{  
 		
