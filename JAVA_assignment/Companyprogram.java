@@ -71,7 +71,7 @@ public class Companyprogram {
 Publication obj=new Publication(tittle,price);
 obj.display();
 
-book ob=new book(count) {};
+book ob=new book(count) {};//using abstract class
 ob.display();
 ob.get_sales(amount);
 ob.display_sales();
