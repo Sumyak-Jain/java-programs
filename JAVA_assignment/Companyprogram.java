@@ -8,7 +8,7 @@ interface sales{//making the interface
 class Publication
 {
 String t;float p;
-Publication(String tittle,float price)
+Publication(String tittle,float price)//storing tittle and price
 {
 t=tittle;  
 p=price;
