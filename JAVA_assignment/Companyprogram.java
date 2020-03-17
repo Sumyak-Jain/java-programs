@@ -55,7 +55,7 @@ void display()
 	}
 
 public class Companyprogram {
-    public static void main(String args[])
+    public static void main(String args[])//main method
 {
 	Scanner sc= new Scanner(System.in);
 	System.out.println("Enter the tittle");
