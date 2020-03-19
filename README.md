@@ -1,4 +1,4 @@
-# JAVA LAB PROGRAMS
+## JAVA LAB PROGRAMS
 
 ![](https://www.linuxfoundation.org/wp-content/uploads/2018/12/Logo-upes.png)
 
