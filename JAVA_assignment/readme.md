@@ -1,4 +1,4 @@
-## JAVA ASSIGNMNENT
+# JAVA ASSIGNMNENT
 
 **Q1.** Create the abstract class Animal and a set of two or three animal sub-classes 
 such asTiger   and Lion. 
