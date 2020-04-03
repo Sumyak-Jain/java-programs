@@ -6,5 +6,4 @@ public class thread1 extends Thread {
         thread1 t = new thread1();
         t.start();
     }
-    
 }
